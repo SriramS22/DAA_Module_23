@@ -16,8 +16,8 @@ To compute the fewest number of coins that we need to make up the amount given.
 ```
 /*
 Create a python function to compute the fewest number of coins that we need to make up the amount given.
-Developed by: Gokul J
-Register Number: 212222230038 
+Developed by: Gokularamanan K
+RegisterNumber: 212222230040
 */
 ```
 
