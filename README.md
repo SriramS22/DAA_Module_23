@@ -19,8 +19,8 @@ To write a Python program using A Naive recursive implementation of Minimum Cost
 ```
 /*
 A program to implement to find the Minimum Cost Path Problem using a  Naive recursive Approach.
-Developed by: Gokularamanan K
-RegisterNumber: 212222230040
+Developed by: sriram s
+RegisterNumber: 212222240105
 */
 ```
 ```python
@@ -74,8 +74,8 @@ To compute the fewest number of coins that we need to make up the amount given.
 ```
 /*
 Create a python function to compute the fewest number of coins that we need to make up the amount given.
-Developed by: Gokularamanan K
-RegisterNumber: 212222230040
+Developed by: sriram s
+RegisterNumber: 212222240105
 */
 ```
 
@@ -128,8 +128,8 @@ To write a python program to find the maximum contiguous subarray.
 ```
 /*
 To implement the program to find the maximum contiguous subarray.
-Developed by: Gokularamanan K
-RegisterNumber: 212222230040
+Developed by: sriram s
+RegisterNumber: 212222240105
 */
 ```
 
@@ -184,8 +184,8 @@ To write a python program for finding the minimum number of jumps needed to reac
 ```
 /*
 To implement the program to finding the minimum number of jumps needed to reach end of the array.
-Developed by: Gokularamanan K
-RegisterNumber: 212222230040
+Developed by: sriram s
+RegisterNumber: 212222240105
 */
 ```
 
